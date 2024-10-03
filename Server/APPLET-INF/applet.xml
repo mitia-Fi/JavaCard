@@ -1,0 +1,8 @@
+<applet-app xmlns="http://java.sun.com/xml/ns/javacard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://java.sun.com/xml/ns/javacard http://java.sun.com/xml/ns/javacard/applet-app_3_0.xsd">
+    <applet>
+        <display-name>My Java Card Applet</display-name>
+        <applet-class>mypackage.JavaCardApplet</applet-class>
+        <applet-AID>//aid/7C0F1B0188/01</applet-AID>
+    </applet>
+
+</applet-app>
